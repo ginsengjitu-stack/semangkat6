@@ -1,0 +1,1 @@
+{"version":3,"file":"updateTransactionStatusRequest.d.ts","sourceRoot":"","sources":["../../../src/generated/types/updateTransactionStatusRequest.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,oCAAoC,EAAE,MAAM,wCAAwC,CAAC;AAEnG,MAAM,WAAW,8BAA8B;IAC7C,MAAM,EAAE,oCAAoC,CAAC;IAC7C,KAAK,CAAC,EAAE,MAAM,CAAC;CAChB"}
